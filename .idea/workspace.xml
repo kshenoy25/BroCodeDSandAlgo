@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30f379b4-a2ec-4e30-8847-d1fa6fc08088" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/packageLinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/packagePriorityQueue/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/packageDynamicArray/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/packageDynamicArray/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packageQueue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/packageQueue/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packageStack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/packageStack/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/packageLinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/packageLinkedList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +80,7 @@
       <updated>1722357606182</updated>
       <workItem from="1722357607469" duration="1309000" />
       <workItem from="1722431916505" duration="226000" />
-      <workItem from="1722434360054" duration="3279000" />
+      <workItem from="1722434360054" duration="9979000" />
     </task>
     <servers />
   </component>
