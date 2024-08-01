@@ -19,11 +19,22 @@ public class Main {
 
         // Static Array                   has a fixed capacity
 
-        DynamicArray dynamicArray = new DynamicArray();
+        DynamicArray dynamicArray = new DynamicArray(5);
 
         dynamicArray.add("A");
         dynamicArray.add("B");
         dynamicArray.add("C");
+        dynamicArray.add("D");
+        dynamicArray.add("E");
+        dynamicArray.add("F");
+
+        dynamicArray.delete("A");
+        dynamicArray.delete("B");
+        dynamicArray.delete("C");
+     
+        //dynamicArray.insert(0, "X");
+        //dynamicArray.delete("A");
+        //System.out.println(dynamicArray.search("X"));
 
         System.out.println(dynamicArray);
         System.out.println("Size: " + dynamicArray.size);
