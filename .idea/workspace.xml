@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30f379b4-a2ec-4e30-8847-d1fa6fc08088" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CodingWithBro/packageBigOnotation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingWithBro/packageLinkedListVsArrayList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingWithBro/packagePassByValue/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingWithBro/packagePassByValue/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/src/packageDynamicArray/DynamicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/packageDynamicArray/DynamicArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/src/packageDynamicArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/packageDynamicArray/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingWithBro/packageDynamicArray/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingWithBro/packageDynamicArray/DynamicArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingWithBro/packageDynamicArray/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingWithBro/packageDynamicArray/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -81,7 +82,7 @@
       <updated>1722357606182</updated>
       <workItem from="1722357607469" duration="1309000" />
       <workItem from="1722431916505" duration="226000" />
-      <workItem from="1722434360054" duration="15422000" />
+      <workItem from="1722434360054" duration="26369000" />
     </task>
     <servers />
   </component>
