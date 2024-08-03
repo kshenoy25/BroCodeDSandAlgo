@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30f379b4-a2ec-4e30-8847-d1fa6fc08088" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CodingWithBro/packageBinarySearch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingWithBro/packageLinearSearch/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingWithBro/packageBigOnotation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingWithBro/packageBigOnotation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/packagePassByValue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/packagePassByValue/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,9 @@
     &quot;accountId&quot;: &quot;84d48866-c61f-4094-8018-28e9c0641714&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -79,7 +84,7 @@
       <updated>1722357606182</updated>
       <workItem from="1722357607469" duration="1309000" />
       <workItem from="1722431916505" duration="226000" />
-      <workItem from="1722434360054" duration="29999000" />
+      <workItem from="1722434360054" duration="33423000" />
     </task>
     <servers />
   </component>
