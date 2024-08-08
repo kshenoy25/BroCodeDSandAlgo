@@ -1,4 +1,4 @@
-package packageAdjacencyMatrix;
+package packageAdjacencyMatrixAndDepthFirstSearch;
 
 public class Main {
     // Adjacency Matrix = A 2D array to store 1's/0's ~ true/false to represent edges
@@ -7,6 +7,11 @@ public class Main {
 
     //                    runtime complexity to check an Edge: O(1)
     //                    space complexity: O(v^2)
+
+    // Depth First Search = a search algorithm for traversing a tree or graph data structure.
+    //                      Pick a route, keep going
+    //                      If you reach a dead end, or an already visited node,
+    //                      backtrack to a previous node with unvisited adjacent neighbors
 
 
     public static void main(String[] args) {
@@ -26,7 +31,9 @@ public class Main {
         graph.addEdge(4,1);
 
         graph.printGraph();
-        System.out.println(graph.checkEdge(3,2));
+
+        graph.depthFirstSearch(3);
+        //System.out.println(graph.checkEdge(3,2));
 
 
 

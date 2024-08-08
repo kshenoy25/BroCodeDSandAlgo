@@ -1,7 +1,8 @@
-package packageAdjacencyMatrix;
+package packageAdjacencyMatrixAndDepthFirstSearch.packageAdjacencyMatrixAndBreadthFirstSearch;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
 
 public class Graph {
     ArrayList<Node> nodes;
@@ -49,6 +50,31 @@ public class Graph {
                 System.out.print(matrix[i][j] + " ");
             }
             System.out.println();
+        }
+    }
+    public void breadthFirstSearch(int src){
+        Queue<Integer> queue = new LinkedList<>();
+
+        // mark if node has been visited
+        boolean[] visited = new boolean[nodes.size()];
+        // can also use.offer
+        queue.add(src);
+        visited[src] = true;
+
+        while (queue.size() != 0){
+            src = queue.poll();
+            System.out.println(nodes.get(src).data + " = visited");
+
+            // iterate and look for any adjacent neighbors
+            for (int i = 0; i < matrix[src].length; i++) {
+
+                // check to see if node has already been visited
+                if(matrix[src][i] == 1 && !visited[i]){
+                    // add to queue if we have an adjacent neighbor that has not been visited
+                    queue.offer(i);
+                    visited[i] = true;
+                }
+            }
         }
     }
 }
