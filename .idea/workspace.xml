@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30f379b4-a2ec-4e30-8847-d1fa6fc08088" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodingWithBro/packageEnum/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30f379b4-a2ec-4e30-8847-d1fa6fc08088" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +98,7 @@
       <workItem from="1723298472949" duration="2629000" />
       <workItem from="1725287177903" duration="84000" />
       <workItem from="1725289842174" duration="15000" />
-      <workItem from="1725563598421" duration="1592000" />
+      <workItem from="1725563598421" duration="1683000" />
     </task>
     <servers />
   </component>
