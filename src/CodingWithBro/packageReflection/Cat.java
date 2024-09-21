@@ -1,6 +1,9 @@
 package packageReflection;
 // reflection = where code can look at itself to examine and change any element of any java class
-//              right in the middle of a running program.
+//              right in the middle of a running program
+
+// using reflections is not ideal as it could cause a plethora of bugs in the program that
+// are really difficult to nail down
 
 public class Cat {
 
